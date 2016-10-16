@@ -19,14 +19,12 @@ The installation guide is tested by:
 
 ### Steps
 
-##### Step 1: Download two assential packages from the website of Google Protocol Buffer release page:
+##### Step 1: Download Google Protocol Buffer compiler package from the website of Google Protocol Buffer release page:
  - [protobuf-cpp-3.0.0.zip]
- - [protoc-3.0.0-linux-x86_64.zip]
  
 [protobuf-cpp-3.0.0.zip]: <https://github.com/google/protobuf/releases/tag/v3.0.0>
-[protoc-3.0.0-linux-x86_64.zip]: <https://github.com/google/protobuf/releases/tag/v3.0.0>
 ***
-##### Step 2: Unzip the two packages mentioned above
+##### Step 2: Unzip the the package mentioned above
 ***
 ##### Step 3: Go to the folder /protobuf-cpp-3.0.0 and type the following command one after another:
 
