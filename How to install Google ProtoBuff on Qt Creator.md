@@ -1,14 +1,18 @@
 # Installation Guide
 
-This is a brief guide about how to install Google Protocol Buffer 3 on Qt Creator. Really hope the short paragraph will do any help to those struggling with the installation process. Please let me know if you have any opinions. Thanks
+This is a brief guide about how to install **Google Protocol Buffer 3** on **Qt Creator**. 
+
+To successfully set up a new enviroment for development is never an easy work.
+Enthusiastically expect that this short paragraph will do any help to those struggling with the installation process. Please let me know if you have any opinions and any feedback is really appreciated.
 
 The installation guide is tested by:
-  - Ubuntu 16.04 LTS
+  - [Ubuntu 16.04 LTS]
   - [Google Protocol Buffer 3.0.0]
   - [Qt Creator 4.1.0]
   - Language: C++
   - Compiler: GCC x86 64bit
 
+[Ubuntu 16.04 LTS]: <https://wiki.ubuntu.com/XenialXerus/ReleaseNotes?_ga=1.166009847.871706029.1475201071>
 [Qt Creator 4.1.0]: <https://www.qt.io/ide/>
 [Google Protocol Buffer 3.0.0]: <https://developers.google.com/protocol-buffers/>
 
@@ -44,5 +48,9 @@ $ LIBS += -L/usr/local/lib
 
 ***
 ##### Step 7: We have finished all the enviroment settings till now. You can check it by building the project and run it to see if the result is shown as expected. Enjoy your journey from here.
+
+
+> Should you have any questions about this paragraph, please email me via:
+> lhungting@gmail.com
 
 
