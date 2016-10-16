@@ -41,7 +41,10 @@ $ make install
 ![Alt text](https://raw.githubusercontent.com/blueclowd/Others/master/generatedFilesByMakeGoogleProtoBuff.png)
 
 ***
-##### Step 5: After finish compiler installation. We can start to set up the project in Qt creator. We first create a C++ project in "Welcome" page and select "New Project". We simply select "Plain C++ application" to make the steps more simple. 
+##### Step 5: After finish compiler installation. We can start to set up the project in Qt creator. We first create a C++ project in "Welcome" page and select "New Project". We simply select "Plain C++ application" to make the steps more simple.
+
+![Alt text](https://raw.githubusercontent.com/blueclowd/Others/master/newProjInQt.png)
+
 ***
 ##### Step 6: Now we have an new C++ project in Qt creator. We already know that the project settings including project type and file reference are descriped in {projectName}.pro. We add a new line to make a link to the generated files in /usr/local/lib
 
@@ -50,9 +53,8 @@ $ LIBS += -L/usr/local/lib
 ```
 
 ***
-##### Step 7: We have finished all the enviroment settings till now. You can check it by building the project and run it to see if the result is shown as expected. Enjoy your journey from here.
-
-
+##### Step 7: Congratulations. We have finished all the enviroment settings till now. You can check it by building the project and run it to see if the result is shown as expected. Enjoy your journey to Google Protocol Buffer on Qt Creator from here!
+<p>
 > Should you have any questions about this paragraph, please email me via:
 > lhungting@gmail.com
 
