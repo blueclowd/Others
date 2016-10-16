@@ -36,7 +36,10 @@ $ make
 $ make install
 ```
 ***
-##### Step 4: Check if corresponding files was generated in folder /usr/local/lib (It's a default path if we didn't change it by ./configure {desired path}). Note that this is the last step of installing the Google Protocol Buffer compiler.
+##### Step 4: Check if corresponding files were generated in folder /usr/local/lib (It's a default path if we didn't change it by ./configure {desired path}). Note that this is the last step of installing the Google Protocol Buffer compiler.
+
+![Alt text](https://raw.githubusercontent.com/blueclowd/Others/master/generatedFilesByMakeGoogleProtoBuff.png)
+
 ***
 ##### Step 5: After finish compiler installation. We can start to set up the project in Qt creator. We first create a C++ project in "Welcome" page and select "New Project". We simply select "Plain C++ application" to make the steps more simple. 
 ***
